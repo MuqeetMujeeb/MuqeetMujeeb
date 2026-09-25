@@ -113,6 +113,12 @@ A production-style ML workflow that predicts vehicle engine wear (regression, a 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuqeetMujeeb&theme=github_dark" alt="Activity graph" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuqeetMujeeb/MuqeetMujeeb/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuqeetMujeeb/MuqeetMujeeb/output/github-snake.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/MuqeetMujeeb/MuqeetMujeeb/output/github-snake-dark.svg" />
+</picture>
+
 </div>
 
 ---
