@@ -1,6 +1,6 @@
 <div align="center">
 
-# Muqeet Mujeeb
+# Syed Abdul Muqeet Mujeeb
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=AI%2FML+Engineer;Real-time+computer+vision+%26+voice+AI;Production+ML+pipelines+with+MLflow;Open+to+jobs%2C+freelance+%26+collaboration" alt="Typing SVG" /></a>
 
@@ -138,6 +138,6 @@ A production-style ML workflow that predicts vehicle engine wear (regression, a 
 
 ## Contact
 
-I'm open to full-time roles, freelance projects, and collaboration in computer science, especially AI/ML. Feel free to reach out.
+I'm open to full-time roles, freelance projects, and collaboration, especially AI/ML. Feel free to reach out.
 
 [Email](mailto:a.muqeetmujeeb@gmail.com) · [LinkedIn](https://www.linkedin.com/in/muqeetmujeeb/) · [Portfolio](https://portfolio-kappa-eight-41.vercel.app)
