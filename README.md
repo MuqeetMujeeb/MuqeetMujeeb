@@ -106,12 +106,12 @@ A production-style ML workflow that predicts vehicle engine wear (regression, a 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MuqeetMujeeb&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuqeetMujeeb&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top languages" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=MuqeetMujeeb&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MuqeetMujeeb&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com/?user=MuqeetMujeeb&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9" alt="GitHub streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuqeetMujeeb&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff" alt="Activity graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuqeetMujeeb&theme=github_dark" alt="Activity graph" />
 
 </div>
 
